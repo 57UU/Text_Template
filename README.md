@@ -1,6 +1,6 @@
 
-### [点击此处查看网页版](https://the-brotherhood-of-scu.github.io/Morality-Review-Material/)
-### [点击此处查看Github版](https://github.com/The-Brotherhood-of-SCU/Morality-Review-Material/blob/gh-pages/index.md)
+### [点击此处查看网页版](https://the-brotherhood-of-scu.github.io/Text_Template/)
+### [点击此处查看Github版](https://github.com/The-Brotherhood-of-SCU/Text_Template/blob/gh-pages/index.md)
 
 # Contribute
 文档规范
@@ -8,8 +8,14 @@
 文件均使用markdown格式编写
 子章节应放在章节对应的文件夹下
 
-如：`第一章`->`1.马克思主义关于人的本质的认识.md`
+如：`0 第一章`->`1.马克思主义关于人的本质的认识.md`
+
+`0 第一章`前面的0是为了保证文件夹的顺序，构建时会舍弃掉这些数组
+
 子章节也应写上编号，防止整合的时候顺序错乱
+
+# 案例
+[思想道德与法治复习资料](https://github.com/The-Brotherhood-of-SCU/Morality-Review-Material)
 
 **特别注意**
 
