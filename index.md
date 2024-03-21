@@ -1,16 +1,16 @@
 # 第一章测试
 
-## 1.导论
+## 1.初衷
 
-只有每个人都为美好梦想而奋斗，才能汇聚起实现中国梦的磅礴力量。
+为简化使用git(esp. github)来构建文档，并减少冲突。
+
+根目录中的`Generate.py`会自动构建`src`文件夹下的内容。
+
+并且`.github`中放有workflow使用github action自动构建到`gh-page`分支，再部署到`Github Pages`
 
 # 第二章
 
-## ABCDE
-
-# Heading 1
-
-## Heading 2
+## 1.测试
 
 ### Heading 3
 
