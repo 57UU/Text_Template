@@ -1,6 +1,6 @@
 # Contribute
 
-Change `footer.md` to change this
+Modity `footer.md` to change this
 
 Everyone can do contributions
 
