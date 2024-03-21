@@ -1,3 +1,4 @@
+以下链接即为使用本仓库自动生成的
 
 ### [点击此处查看网页版](https://the-brotherhood-of-scu.github.io/Text_Template/)
 ### [点击此处查看Github版](https://github.com/The-Brotherhood-of-SCU/Text_Template/blob/gh-pages/index.md)
@@ -10,7 +11,7 @@
 
 如：`0 第一章`->`1.马克思主义关于人的本质的认识.md`
 
-`0 第一章`前面的0是为了保证文件夹的顺序，构建时会舍弃掉这些数组
+`0 第一章`前面的0是为了保证文件夹的顺序，构建时会舍弃掉这些数
 
 子章节也应写上编号，防止整合的时候顺序错乱
 
