@@ -3,6 +3,10 @@
 ### [点击此处查看网页版](https://the-brotherhood-of-scu.github.io/Text_Template/)
 ### [点击此处查看Github版](https://github.com/The-Brotherhood-of-SCU/Text_Template/blob/gh-pages/index.md)
 
+# 如何使用
+
+点击Github右上角的`use this template`即可
+
 # Contribute
 文档规范
 
@@ -23,6 +27,8 @@
 在markdown文件中，请不要使用#、##这样的一级、二级标题
 
 因为自动化脚本会将所有文件合并，自动化脚本会自动将章节、子章节设为一级、二级标题
+
+
 
 # 自动化逻辑
 
